@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1713212363 source:c:\users\guilh\onedrive\desktop\programacadastrodengue\arquivos.c
+	"Arquivos.h"
+
+1713221488 c:\users\guilh\onedrive\desktop\programacadastrodengue\arquivos.h
+	<stdbool.h>
+	<stdio.h>
+	"Listas.h"
+
+1713212773 c:\users\guilh\onedrive\desktop\programacadastrodengue\listas.h
+	<stdio.h>
+	<stdlib.h>
+	"EstruturaDados.h"
+
+1713221524 c:\users\guilh\onedrive\desktop\programacadastrodengue\estruturadados.h
+
+1713221524 source:c:\users\guilh\onedrive\desktop\programacadastrodengue\buscas.c
+	"Buscas.h"
+
+1713221991 c:\users\guilh\onedrive\desktop\programacadastrodengue\buscas.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<unistd.h>
+	"Tela.h"
+	"Listas.h"
+	"EstruturaDados.h"
+
+1713212858 c:\users\guilh\onedrive\desktop\programacadastrodengue\tela.h
+	<stdio.h>
+	"Listas.h"
+	"EstruturaDados.h"
+	<locale.h>
+
+1713221233 source:c:\users\guilh\onedrive\desktop\programacadastrodengue\controlepaciente.c
+	"ControlePaciente.h"
+
+1713221225 c:\users\guilh\onedrive\desktop\programacadastrodengue\controlepaciente.h
+	<stdbool.h>
+	<stdio.h>
+	<locale.h>
+	"Listas.h"
+
+1713221385 source:c:\users\guilh\onedrive\desktop\programacadastrodengue\listas.c
+	"Listas.h"
+
+1713221431 source:c:\users\guilh\onedrive\desktop\programacadastrodengue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Listas.h"
+	"EstruturaDados.h"
+	"Buscas.h"
+	"Tela.h"
+	"Arquivos.h"
+	"ControlePaciente.h"
+
+1713221469 source:c:\users\guilh\onedrive\desktop\programacadastrodengue\tela.c
+	"Tela.h"
+
+1713212363 source:c:\users\guilh\onedrive\desktop\trabalho_usf\programacadastrodengue\arquivos.c
+	"Arquivos.h"
+
+1713221488 c:\users\guilh\onedrive\desktop\trabalho_usf\programacadastrodengue\arquivos.h
+	<stdbool.h>
+	<stdio.h>
+	"Listas.h"
+
+1713222084 c:\users\guilh\onedrive\desktop\trabalho_usf\programacadastrodengue\listas.h
+	<stdio.h>
+	<stdlib.h>
+	"EstruturaDados.h"
+
+1713221524 c:\users\guilh\onedrive\desktop\trabalho_usf\programacadastrodengue\estruturadados.h
+
+1713221385 source:c:\users\guilh\onedrive\desktop\trabalho_usf\programacadastrodengue\listas.c
+	"Listas.h"
+
+1713221431 source:c:\users\guilh\onedrive\desktop\trabalho_usf\programacadastrodengue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Listas.h"
+	"EstruturaDados.h"
+	"Buscas.h"
+	"Tela.h"
+	"Arquivos.h"
+	"ControlePaciente.h"
+
+1713222019 c:\users\guilh\onedrive\desktop\trabalho_usf\programacadastrodengue\buscas.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<unistd.h>
+	"Tela.h"
+	"Listas.h"
+	"EstruturaDados.h"
+
+1713222230 c:\users\guilh\onedrive\desktop\trabalho_usf\programacadastrodengue\tela.h
+	<stdio.h>
+	"Listas.h"
+	"EstruturaDados.h"
+	<locale.h>
+
+1713222084 c:\users\guilh\onedrive\desktop\trabalho_usf\programacadastrodengue\controlepaciente.h
+	<stdbool.h>
+	<stdio.h>
+	<locale.h>
+	"Listas.h"
+
+1713772523 source:c:\users\guilh\onedrive\desktop\trabalho_usf\programacadastrodengue\buscas.c
+	"Buscas.h"
+
+1713772601 source:c:\users\guilh\onedrive\desktop\trabalho_usf\programacadastrodengue\controlepaciente.c
+	"ControlePaciente.h"
+
+1713224067 source:c:\users\guilh\onedrive\desktop\trabalho_usf\programacadastrodengue\tela.c
+	"Tela.h"
+

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ProgramaCadastroDengue" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ProgramaCadastroDengue" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ProgramaCadastroDengue" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Arquivo.txt" />
+		<Unit filename="Arquivos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Arquivos.h" />
+		<Unit filename="Buscas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Buscas.h" />
+		<Unit filename="ControlePaciente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ControlePaciente.h" />
+		<Unit filename="EstruturaDados.h" />
+		<Unit filename="Listas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Listas.h" />
+		<Unit filename="Tela.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Tela.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
